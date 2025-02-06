@@ -1,1 +1,3 @@
-print ('Ola gris')
+print ('Ola GRIS')
+print  ('nova tarefa criada')
+print ('foi feito uma segunda tarefa')
